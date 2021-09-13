@@ -1,191 +1,86 @@
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1,Sun TV HD
+http://watchindia.net:8880/live/33253/72963/843.m3u8
+#EXTINF:-1,Sun TV HD USA
+http://watchindia.net:8880/live/33253/72963/2089.m3u8
 
-#EXTINF:-1,IN Sneh | STAR SPORTS 1 FHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/83997
-#EXTINF:-1,IN Sneh | STAR SPORTS 1 FHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/83998
-#EXTINF:-1,IN Sneh | STAR SPORTS SELECT 1 HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/84001
-#EXTINF:-1,|IN| SUN TV FHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86180
-#EXTINF:-1,|IN| VIJAY FHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86181
-#EXTINF:-1,IN Sneh | SONY SIX FHD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/52576
-#EXTINF:-1,IN Sneh| Colors Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87267
-#EXTINF:-1,IN Sneh| HBO HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87305
-#EXTINF:-1,IN Sneh| KTV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87323
-#EXTINF:-1,IN Sneh| Star Movies HD 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87286
-#EXTINF:-1,IN Sneh| Star Sports 1 HD 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87257
-#EXTINF:-1,IN Sneh| Star Vijay HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87265
-#EXTINF:-1,IN Sneh| Star Vijay Super
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87251
-#EXTINF:-1,IN Sneh| Sun Music 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87325
-#EXTINF:-1,IN Sneh| Sun TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87329
-#EXTINF:-1,IN Sneh| Zee Tamil HD 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87324
-#EXTINF:-1,IN Sneh| Colors Tamil HD IN.
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/49325
-#EXTINF:-1,IN Sneh| Ktv HD IN.
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/49356
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT(HackTech TV - Yupptv)",SUN TV HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=sun-tv-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/sun-news-white.png" group-title="SunNXT(HackTech TV - Yupptv)",SUN NEWS
-https://mhdtvapp.xyz/yupp/yupp.php?c=sun-news&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT(HackTech TV - Yupptv)",KTV HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=ktv-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT(HackTech TV - Yupptv)",SUN MUSIC HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_4adabbae-d9c8-47ac-8773-dc790a378228.jpg" group-title="SunNXT(HackTech TV - Yupptv)",SUN LIFE
-https://mhdtvapp.xyz/yupp/yupp.php?c=sun-life&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/350/350/bnw/adithya-tv-white.png" group-title="SunNXT(HackTech TV - Yupptv)",Adithya TV
-https://mhdtvapp.xyz/yupp/yupp.php?c=adithya-tv&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNXT(HackTech TV - Yupptv)",GEMINI TV HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-tv-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SunNXT(HackTech TV - Yupptv)",GEMINI MOVIES HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-movies-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SunNXT(HackTech TV - Yupptv)",GEMINI MUSIC HD
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-music-hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SunNXT(HackTech TV - Yupptv)",GEMINI COMEDY
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-comedy&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SunNXT(HackTech TV - Yupptv)",GEMINI LIFE
-https://mhdtvapp.xyz/yupp/yupp.php?c=gemini-life&e=.m3u8
+#EXTINF:-1,Star Vijay
+http://watchindia.net:8880/live/33253/72963/854.m3u8
 
-#EXTINF:-1,Sneh TAMIL (HD)- ADHTIYA TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
-#EXTINF:-1,Sneh TAMIL (HD)- ANGEL TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40806
-#EXTINF:-1,Sneh TAMIL (HD)- CAPTAIN NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40807
-#EXTINF:-1,Sneh TAMIL (HD)- COLORS TAMIL HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
+#EXTINF:-1,Star Vijay HD
+http://watchindia.net:8880/live/33253/72963/846.m3u8
+#EXTINF:-1,Star Vijay HD 2
+http://watchindia.net:8880/live/33253/72963/2140.m3u8
 
-#EXTINF:-1,Sneh TAMIL (HD)- ISAI ARUVI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40813
-#EXTINF:-1,Sneh TAMIL (HD)- JAYA TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40814
-#EXTINF:-1,Sneh TAMIL (HD)- KTV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
-#EXTINF:-1,Sneh TAMIL (HD)- NEWS 18 TAMIL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40819
-#EXTINF:-1,Sneh TAMIL (HD)- RAJ MUSIX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40820
-#EXTINF:-1,Sneh TAMIL (HD)- RAJ TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
-#EXTINF:-1,Sneh TAMIL (HD)- SAI TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40822
-#EXTINF:-1,Sneh TAMIL (HD)- SONY BBC EARTH HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
-#EXTINF:-1,Sneh TAMIL (HD)- STAR VIJAY HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
-#EXTINF:-1,Sneh TAMIL (HD)- SUN LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
-#EXTINF:-1,Sneh TAMIL (HD)- SUN MUSIC HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40826
-#EXTINF:-1,Sneh TAMIL (HD)- SUN NEWS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40827
-#EXTINF:-1,Sneh TAMIL (HD)- SUN TV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
-#EXTINF:-1,Sneh TAMIL (HD)- TATA SKY TAMIL CINEMA
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40829
-#EXTINF:-1,Sneh TAMIL (HD)- VASANTH TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40830
-#EXTINF:-1,Sneh TAMIL (HD)- VENDHAR TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40831
-#EXTINF:-1,Sneh TAMIL (HD)- VIJAY SUPER HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40832
-#EXTINF:-1,Sneh TAMIL (HD)- WIN TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40833
-#EXTINF:-1,Sneh TAMIL (HD)- ZEE TAMIL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40834
-#EXTINF:-1,Sneh TAMIL (HD)- ZEE TAMIL HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
-#EXTINF:-1,Sneh TAMIL (HD)- AKARAM MIX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40836
-#EXTINF:-1,Sneh TAMIL (HD)- AKARAM TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40837
-#EXTINF:-1,Sneh TAMIL (HD)- MUSIC HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40838
-#EXTINF:-1,Sneh TAMIL (HD)- VASANTHAM TV SINGAPOUR
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40839
-#EXTINF:-1,Sneh TAMIL (HD)- MOON TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40840
-#EXTINF:-1,Sneh TAMIL (HD)- RAGAM TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40841
-#EXTINF:-1,Sneh TAMIL (HD)- EETV HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40842
-#EXTINF:-1,Sneh TAMIL (HD)- IBC BAKTHI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40843
-#EXTINF:-1,Sneh TAMIL (HD)- IBC TAMIL
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40844
-#EXTINF:-1,Sneh TAMIL (HD)- IBC COMEDY
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40845
-#EXTINF:-1,Sneh TAMIL (HD)- SANGAMAM TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40846
-#EXTINF:-1,Sneh TAMIL (HD)- TVI HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40847
-#EXTINF:-1,Sneh TAMIL (HD)- MATHIMUGAM TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40848
-#EXTINF:-1,Sneh TAMIL (HD)- VELICHAM TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40849
-#EXTINF:-1,Sneh TAMIL (HD)- TAMILAN TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40850
-#EXTINF:-1,Sneh TAMIL (HD)- ATHAVAN TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
+#EXTINF:-1,KTV HD
+http://watchindia.net:8880/live/33253/72963/845.m3u8
 
+#EXTINF:-1,Zee Tamil
+http://watchindia.net:8880/live/33253/72963/887.m3u8
 
-#EXTINF:-1,Sneh |South India|  1SPORTS
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86087
-#EXTINF:-1,Sneh |South India|  7SMUSIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
-#EXTINF:-1,Sneh |South India|  Dheeran_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
-#EXTINF:-1,Sneh |South India|  IMAYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
-#EXTINF:-1,Sneh |South India|  Jaya_Plus
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
-#EXTINF:-1,Sneh |South India|  KALAIGNAR_CHITHIRAM
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
-#EXTINF:-1,Sneh |South India|  KALAIGNAR_ISAI_ARUVI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
-#EXTINF:-1,Sneh |South India|  KALAIGNAR_MURASU
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
-#EXTINF:-1,Sneh |South India|  KALAIGNAR_SIRIPPOLI
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
-#EXTINF:-1,Sneh |South India|  KALAIGNAR_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
-#EXTINF:-1,Sneh |South India|  MK_SIX
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
-#EXTINF:-1,Sneh |South India|  MK_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
-#EXTINF:-1,Sneh |South India|  MK_TUNES
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
-#EXTINF:-1,Sneh |South India|  MOON_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
-#EXTINF:-1,Sneh |South India|  ORANGE_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86131
-#EXTINF:-1,Sneh |South India|  POLIMER
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86133
-#EXTINF:-1,Sneh |South India|  SATHIYAM_TV
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1,Sneh |South India|  Sun Music HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1,Sneh |South India|  Sun News 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1,Sneh |South India|  Sun tv HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1,Sneh |South India|  SUN_LIFE
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
-#EXTINF:-1,Sneh |South India|  TAMILAN_TELEVISION
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
-#EXTINF:-1,Sneh |South India|  Zee Tamil HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
+#EXTINF:-1,Colors Tamil
+http://watchindia.net:8880/live/33253/72963/2083.m3u8
+
+#EXTINF:-1,Jaya TV HD
+http://watchindia.net:8880/live/33253/72963/851.m3u8
+#EXTINF:-1,Star Vijay Super
+http://watchindia.net:8880/live/33253/72963/2190.m3u8
+#EXTINF:-1,Zee Thirai
+http://watchindia.net:8880/live/33253/72963/2142.m3u8
+#EXTINF:-1,Jaya Movie
+http://watchindia.net:8880/live/33253/72963/849.m3u8
+
+#EXTINF:-1,Sun Music HD
+http://watchindia.net:8880/live/33253/72963/844.m3u8
+#EXTINF:-1,Isaiaruvi TV
+http://watchindia.net:8880/live/33253/72963/2149.m3u8
+#EXTINF:-1,Raj Musix Tamil
+http://watchindia.net:8880/live/33253/72963/861.m3u8
+#EXTINF:-1,Jaya Max
+http://watchindia.net:8880/live/33253/72963/852.m3u8
+
+#EXTINF:-1,Kalaignar TV
+http://watchindia.net:8880/live/33253/72963/2148.m3u8
+#EXTINF:-1,Sun Life
+http://watchindia.net:8880/live/33253/72963/847.m3u8
+
+#EXTINF:-1,Raj Digital Plus
+http://watchindia.net:8880/live/33253/72963/857.m3u8
+
+#EXTINF:-1,Polimer TV
+http://watchindia.net:8880/live/33253/72963/2147.m3u8
+
+#EXTINF:-1,Kollywood Box Office
+http://watchindia.net:8880/live/33253/72963/2152.m3u8
+#EXTINF:-1,Tamil Vision TV
+http://watchindia.net:8880/live/33253/72963/863.m3u8
+#EXTINF:-1,Murasu TV
+http://watchindia.net:8880/live/33253/72963/880.m3u8
+
+#EXTINF:-1,Polimer News
+http://watchindia.net:8880/live/33253/72963/877.m3u8
+#EXTINF:-1,News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+#EXTINF:-1,News 7
+http://watchindia.net:8880/live/33253/72963/867.m3u8
+#EXTINF:-1,Thanthi TV
+http://watchindia.net:8880/live/33253/72963/947.m3u8
+#EXTINF:-1,Sun News
+http://watchindia.net:8880/live/33253/72963/869.m3u8
+#EXTINF:-1,Puthiya Thalaimurai
+http://watchindia.net:8880/live/33253/72963/879.m3u8
+
+#EXTINF:-1,Sirippoli TV
+http://watchindia.net:8880/live/33253/72963/2084.m3u8
+#EXTINF:-1,Adithya TV
+http://watchindia.net:8880/live/33253/72963/855.m3u8
+
+#EXTINF:-1,Peppers
+http://watchindia.net:8880/live/33253/72963/870.m3u8
+
+#EXTINF:-1,Vasanth TV
+http://watchindia.net:8880/live/33253/72963/858.m3u8
+#EXTINF:-1,Vendhar TV
+http://watchindia.net:8880/live/33253/72963/2146.m3u8
+#EXTINF:-1,Puthuyugam TV
+http://watchindia.net:8880/live/33253/72963/865.m3u
