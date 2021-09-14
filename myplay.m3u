@@ -58,13 +58,14 @@ http://watchindia.net:8880/live/33253/72963/863.m3u8
 http://watchindia.net:8880/live/33253/72963/880.m3u8
 
 #EXTINF:-1,Polimer News
-http://watchindia.net:8880/live/33253/72963/877.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631603299/ei/A_Y_YajHFayjir4P_MSFqAw/ip/52.173.135.103/id/r44SqwmQ3Bo.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C23997971%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOxVD-FgaDGKlkTOd7H9ys_xRliQH2x7l-zBSboIrMjkCIQC0sxJMfoFMCNdO5dFmPKoSfVSXoX_tfcAVL6Hfd99G7Q%3D%3D/file/index.m3u8
 #EXTINF:-1,News 18 TAMIL
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1,News 7
-http://watchindia.net:8880/live/33253/72963/867.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631603300/ei/A_Y_Ydz6Ouamir4P1rK1kAs/ip/52.173.135.103/id/C28tBeATsmQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgRYRq54UW9EZSDFD3le0JFqY_CRbVjZivIia0d9i_f7sCIQCP3ywbu__gZIUxPOZZNEsvc466hFqP2PuPn6jeeO6HPw%3D%3D/file/index.m3u8
 #EXTINF:-1,Thanthi TV
-http://watchindia.net:8880/live/33253/72963/947.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1631603300/ei/BPY_YdSbGcjUigTou5KACQ/ip/52.173.135.103/id/wc3Y6vI-poI.2/source/yt_live_broadcast/requiressl/yes/tx/24027686/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIJwBsbyIXVlJBWAf27I-2oU4w-MNfd4yDrc3CwBc7T_AiEAnocDitoKANc8t9i8fOoTHMZWGwYyW0ni4jIPKpfXwxw%3D/file/index.m3u8
+
 #EXTINF:-1,Sun News
 http://watchindia.net:8880/live/33253/72963/869.m3u8
 #EXTINF:-1,Puthiya Thalaimurai
