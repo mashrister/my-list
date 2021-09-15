@@ -10,10 +10,24 @@ http://watchindia.net:8880/live/33253/72963/854.m3u8
 #EXTINF:-1,Star Vijay HD
 http://watchindia.net:8880/live/33253/72963/846.m3u8
 #EXTINF:-1,Star Vijay HD 2
-http://watchindia.net:8880/live/33253/72963/2140.m3u8
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1,Star Vijay HD 3
+http://143.244.60.10/TAMIL__STAR_VIJAY_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:0 ,Zee Tamil HD
+http://ahaohoo.com/.1/tv1/play.php?id=2323&e=.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="N/A",Zee Tamil IN
+http://85.203.33.88:80/Viottastraat/69W8TD694/6227
 
 #EXTINF:-1,KTV HD
 http://watchindia.net:8880/live/33253/72963/845.m3u8
+
+#EXTINF:0 tvg-id="KtvHD.in" group-title="N/A",KTV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
+
+#EXTINF:0 tvg-id="KTV.in" group-title="N/A",KTV IN
+http://85.203.33.88:80/Viottastraat/69W8TD694/6230
 
 #EXTINF:-1,Zee Tamil
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil 
@@ -30,6 +44,8 @@ https://snehz5tv.herokuapp.com?c=0-9-224
 #EXTINF:-1,Jaya Movie
 http://watchindia.net:8880/live/33253/72963/849.m3u8
 
+#EXTINF:0 tvg-id="SunMusic.in" group-title="N/A",Sun Music IN
+http://85.203.33.88:80/Viottastraat/69W8TD694/10176
 #EXTINF:-1,Sun Music HD
 http://watchindia.net:8880/live/33253/72963/844.m3u8
 #EXTINF:-1,Isaiaruvi TV
