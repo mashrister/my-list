@@ -72,7 +72,7 @@ http://watchindia.net:8880/live/33253/72963/869.m3u8
 http://watchindia.net:8880/live/33253/72963/879.m3u8
 
 #EXTINF:-1,Tunes 6
-https://llvod.mxplay.comhttps://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 #EXTINF:-1,Sirippoli TV
 http://watchindia.net:8880/live/33253/72963/2084.m3u8
 #EXTINF:-1,Adithya TV
@@ -84,6 +84,7 @@ http://watchindia.net:8880/live/33253/72963/870.m3u8
 #EXTINF:-1,Vasanth TV
 http://watchindia.net:8880/live/33253/72963/858.m3u8
 #EXTINF:-1,Vendhar TV
-https://snehz5tv.herokuapp.com?c=0-9-306 
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in.m3u8
+
 #EXTINF:-1,Puthuyugam TV
 https://snehz5tv.herokuapp.com?c=0-9-221 
