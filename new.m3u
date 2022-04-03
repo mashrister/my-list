@@ -1,0 +1,72 @@
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b48c95c2e844ea2b59e27fb42fe4b510:1168d5b1fcb20ad3973b101f2775c9a9
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",201 Astro Vaanavil 
+#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_09.m3u8
+#https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",116 Colors Hindi 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e1f571523456cba3d3c5901c43b8d10:589b204b1b97b4bf4f4cbe0129fa67e6
+#EXTINF:-1 tvg-id="222" tvg-name="Colors Tamil HD" group-title="INDIAN" tvg-logo="https://iili.io/1NBdJ9.png",222 Colors Tamil 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen 
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae3120ac55315813212677bbb2ce8b10:dfb51c7a6e066fe0aa1da05ab2ae1a9d
+#EXTINF:-1 tvg-id="204" tvg-name="Makkal TV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",204 Makkal TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86926949493ad3767442c338b3140810:cbccf2086e836ad13b783f6166f888fd
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40636fba89de95f6d4b5ef63f4f3b510:9515d6b00e269cbef3ab6454a96ae63b
+#EXTINF:-1 tvg-id="212" tvg-name="Sun Music HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19e79967a0f1ead8bb7bc453bbc3d110:592722a6819d1226921e68d689262497
+#EXTINF:-1 tvg-id="213" tvg-name="Chutti TV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e43b89a409027b38c471e4088cf76210:2ded2169b89a80a1179f501fa3b6c081
+#EXTINF:-1 tvg-id="214" tvg-name="Adithya" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d00a8536425163d5274fdf086001e110:7261ce40695be3526cf0e8e224546723
+#EXTINF:-1 tvg-id="223" tvg-name="Zee Tamil HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10:2daee966c9736498a05505174b266bde
+#EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",241 ABO Movies Thangathirai 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 BollyOne 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505f7a8803b542e78941a6bfe40d2910:166626a62cf1b356c298b58842c60661
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD" group-title="INDIAN" tvg-logo="https://iili.io/1Nqyf2.png",221 Star Vijay 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
