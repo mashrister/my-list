@@ -1,7 +1,3 @@
-#EXTINF:-1,RASI TV
-http://singamcloud.in:80/rasinetworks/rasitv/playlist.m3u8
-#EXTINF:-1,RASI MUSIC
-http://singamcloud.in:80/rasinetworks/rasimusic/playlist.m3u8
 #EXTINF:-1,yathmovies
 http://bmlive.net:8000/kuttytv/yathmovies/bms.m3u8
 #EXTINF:-1,7Star TV
@@ -11,30 +7,22 @@ http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1,Polimer Channel
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
-#EXTINF:-1,SS Varma TV
-http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
-#EXTINF:-1,Jawahar TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
 #EXTINF:-1,SS TV
 http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
 #EXTINF:-1,Vani TV
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1,Ashoka Channel
 http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
-#EXTINF:-1,Shalini TV
-https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
 #EXTINF:-1,PCN CHANNEL
 http://103.98.62.134:8080/gtv/gtv.m3u8
 #EXTINF:-1,Shree TV
 http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
-#EXTINF:-1,N TV
-http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1,MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1,CTN(Connor)
 http://bmlive.net:8000/ctn/ctn/bms.m3u8
-#EXTINF:-1,Polimer TV
-http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
+
 #EXTINF:-1,Prakalya TV
 http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 #EXTINF:-1,SR MUSIX
@@ -45,38 +33,20 @@ http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 http://7starcloud.com:1935/live/sstv2/playlist.m3u8
 #EXTINF:-1,Sri Krishna TV
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1,VAANAVIL TV
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
 #EXTINF:-1,MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1,Sri Krishna TV(T.kode)
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1,News Plus TV
-http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
 #EXTINF:-1,RCN TV
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
-#EXTINF:-1,Hari TV
-http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
 #EXTINF:-1,Udhayam TV
 http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
-#EXTINF:-1,SIVAN TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1,IBC BAKTHI
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IBC SILUVAI
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Isai Aruvi
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1,Moon TV
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1,IBC CANADA
-https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IBC TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IBC COMEDY
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IBC MUSIC
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TVI HD
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1,SHAKTHI TV
@@ -85,20 +55,16 @@ http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
 http://45.77.66.224:1935/athavantv/live_360p/chunklist.m3u8
 #EXTINF:-1,KING TV
 http://account26.livebox.co.in/kinghls/live.m3u8
-#EXTINF:-1, MK TV
-http://14.199.164.20:4001/play/a0lh/index.m3u8
-#EXTINF:-1,PC TV
-http://pctv.livebox.co.in/pctvhls/live.m3u8
+
+
 #EXTINF:-1,GTA TAMIL TV
 http://142.44.213.115:8888/gta_tamil/index.m3u8
-#EXTINF:-1,EET TV
-https://live.streamjo.com/eetlive/eettv.m3u8
+
 #EXTINF:-1,SSR TV
 http://stream.singamcloud.in/ssrhd/ssrhd/index.m3u8
 #EXTINF:-1,Vedha tv surandai
 http://conference1.livebox.co.in/vedhatvhls/live.m3u8
-#EXTINF:-1,Eesan tv
-http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
+
 #EXTINF:-1,SINGAM TV
 http://singamcloud.in/singamtv/singamtv/index.m3u8
 #EXTINF:-1,Kalai ISAI
@@ -107,8 +73,7 @@ http://singamcloud.in/kalai/kalaiisai/index.m3u8
 http://singamcloud.in:80/rasinetworks/rasitv/index.m3u8
 #EXTINF:-1,Yupp  thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-#EXTINF:-1,Hari Tv
-http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
 #EXTINF:-1,SMCV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1,Vani plus
@@ -117,42 +82,16 @@ http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
 #EXTINF:-1,ABM Tv
 http://singamcloud.in/abmtv/abmtv/index.m3u8
-#EXTINF:-1,DD SPORTS
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1,Vasanth TV
-http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
-#EXTINF:-1,Puthuyugam TV
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1,Tamilan
-http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
-#EXTINF:-1,Kalaignar Murasu
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 
-#EXTINF:-1,ISAIARUVI
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
-#EXTINF:-1,Moon TV
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
 #EXTINF:-1,Erode Krishna
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 #EXTINF:-1,MK TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1,MK SIX
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1,IBC Pagadi
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1,IBC Siluvai
-https://tx1.ibctamil.tv/CDN_IBC_Siluvai/index.m3u8
-#EXTINF:-1,IBC ISAI
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1,IBC Bakthi
-https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/index.m3u8
-#EXTINF:-1,IBC TAMIL Canada
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1,IBC TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1,MSN TV
-http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+
 #EXTINF:-1,Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1,Jawahar
@@ -167,43 +106,22 @@ http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
 http://singamcloud.in/purpletv/purpletv/index.m3u8
 #EXTINF:-1,T TV
 http://singamcloud.in/ttv/ttv/index.m3u8
-#EXTINF:-1,ET NOW
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+
 #EXTINF:-1,Yogaa TV
 http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
-#EXTINF:-1,NEWS18 TAMILNADU
-http://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Kanchi tv
 http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1,Jayam Tv Madurai
-http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
 #EXTINF:-1,Rasi Music
 http://singamcloud.in/rasinetworks/rasimusic/index.m3u8
 #EXTINF:-1,KBO TAMIL
 https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
-#EXTINF:-1,KBO classic tamil
-https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 #EXTINF:-1,TCV
 https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
 
-#EXTINF:-1,MY TV
-http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
-#EXTINF:-1,News 18 Malayalam
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Kaumudy
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1,Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1,MK Tunes
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1,Polimer Tv
-http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1,Vanavil tv
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1,TVI HD
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1,EET TV srilanka
-https://live.streamjo.com/eetlive/eettv.m3u8
+
+
 #EXTINF:-1,Suriyan Tv
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1,Athavan tv
@@ -211,68 +129,32 @@ http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
 #EXTINF:-1,Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:-1,Mk six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1,Family tv
-https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
-#EXTINF:-1,Kcv tv
-http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1,KMD TV
 http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-
-#EXTINF:-1,Mk tv
-http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
-#EXTINF:-1,Shivan tv
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1,Life tv
-http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 
 #EXTINF:-1,KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1,Mon Tamil tv
 http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1,WAY TV
-http://waytv.livebox.co.in/waytvhls/waytv.m3u8
-#EXTINF:-1,Three tamil
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1,Faith tv
-http://faithtvlive.livebox.co.in/faithtvhls/live.m3u8
+
 #EXTINF:-1,Relax tv
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 #EXTINF:-1,Music star tv
 http://198.144.149.82:8080/NOTV/MUSICSTARTV/index.m3u8?token=GTR
-#EXTINF:-1,Thirumalai tv
-http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
 #EXTINF:-1,Analai express tv
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
-#EXTINF:-1,Mon tamil tv
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-#EXTINF:-1,Psalm tv
-http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
+
+
 #EXTINF:-1,Jay tv
 http://8kguru.tv:8081/rudhramtv1/tvhd/playlist.m3u8
-#EXTINF:-1,Lifetv plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
-#EXTINF:-1,Jawahar tv
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-#EXTINF:-1,TVI
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,Joy tv
-http://joytv.livebox.co.in/joytvhls/live.m3u8
+
+
 #EXTINF:-1,Acn music
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
-#EXTINF:-1,THOPHONYTV
-http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR
 #EXTINF:-1,Kavin tv
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
-#EXTINF:-1,Sai tv Madurai
-http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
-#EXTINF:-1,Asai tv
-http://osaitv.livebox.co.in/osaihls/live.m3u8
-#EXTINF:-1,Metro tv
-http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
-#EXTINF:-1,Nine star tv
-http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+
 #EXTINF:-1,V TV
 http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
 #EXTINF:-1,Hari tv
@@ -281,34 +163,25 @@ http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
 #EXTINF:-1,Ezhil tv
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1,Orange tv
-http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 #EXTINF:-1,Krishna tv
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1,KL MY TV
-http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
+
 #EXTINF:-1,VAAGAI TV
 http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
-#EXTINF:-1,Pc tv
-http://pctv.livebox.co.in/pctvhls/live.m3u8
+
 #EXTINF:-1,JEYAM TV
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 #EXTINF:-1,QTV
 http://198.144.149.82:8080/NOTV/QTV/index.m3u8?token=GTR
 #EXTINF:-1,MM CLASSIC
 http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
-#EXTINF:-1,MM TV
-http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
 #EXTINF:-1,Kankaru tv
 http://198.144.149.82:8080/NOTV/KANGARUTV/index.m3u8?token=GTR
 #EXTINF:-1,Jayam tv
 http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
-#EXTINF:-1,Vani tv
-http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
+
 #EXTINF:-1,ANANDHA TV
 http://198.144.149.82:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
-#EXTINF:-1,Kanchi tv
-http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1,KANCHI MEDIA
 http://198.144.149.82:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 #EXTINF:-1,Vedha tv kanchi
@@ -327,8 +200,6 @@ http://bmlive.net:8000/orange/jjmax/bms.m3u8
 http://198.144.149.82:8080/NOTV/JAYAMTV/index.m3u8?token=GTR
 #EXTINF:-1,Annai tv
 http://softstreamtv.com:8080/NOTV/ANNAITV/index.m3u8?token=GTR
-#EXTINF:-1,Jeevan tv
-http://198.144.149.82:8080/NOTV/JEEVANTV/index.m3u8?token=GTR
 #EXTINF:-1,N TV
 http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 #EXTINF:-1,GAYATHRI TV
@@ -339,133 +210,77 @@ http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1,Samyuktha HD
 http://bmlive.net:8000/samyukthahd/samyukthahd/bms.m3u8
-#EXTINF:-1,Suriyan TV
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
 #EXTINF:-1,Udhyam TV Nagarcoil
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
-#EXTINF:-1,SMYRNA TV
-http://bmlive.net:8000/smyrnatv/smyrnatv/bms.m3u8
-#EXTINF:-1,KCV TV
-http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1,Yupp Thirai
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
-#EXTINF:-1,Sivan TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
 #EXTINF:-1,VIP HD
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-#EXTINF:-1,JeevaOli TV
-http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
-#EXTINF:-1,Tamilan
-http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
+
 #EXTINF:-1,IBC Music
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 #EXTINF:-1,Tamil Vision International
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 #EXTINF:-1,JCV HD
 http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
-#EXTINF:-1,ET Now
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1,SVBC Tamil
-http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
-#EXTINF:-1,Vinmeen TV
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+
+
 #EXTINF:-1,Analai Express TV
 http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
 #EXTINF:-1,Digital TV
 http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
-#EXTINF:-1,PSALM TV
-http://198.144.149.82:8080/NOTV/PSALMTV/index.m3u8?token=GTR
 #EXTINF:-1,3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,SR MUSIX
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+
 #EXTINF:-1,7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1,Mon Tamil TV
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
 #EXTINF:-1,SJS TV
 http://bmlive.net:8000/sjstv/sjstv/bms.m3u8
-#EXTINF:-1,Life Tv
-http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
-#EXTINF:-1,AUS TAMIL
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1,Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1,Penguin TV
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
-#EXTINF:-1,Life Tv Plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 
-#EXTINF:-1,NDTV
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,Vasanth TV
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
-#EXTINF:-1,Sivan TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
 #EXTINF:-1,KBO Classic
 https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
-#EXTINF:-1,News 18 TAMIL
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #EXTINF:-1,Selfie TV
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
-#EXTINF:-1,KBO Tamil
-https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
-#EXTINF:-1,THOPHONY TV
-http://198.144.149.82:8080/NOTV/THOPHONYTV/index.m3u8?token=GTR
+
 #EXTINF:-1,EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1,Tamil Three
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1,IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1,Isai Saaral
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
-#EXTINF:-1,News Plus TV
-http://hdserver.7starcloud.com:1935/newsplus/live/playlist.m3u8
-#EXTINF:-1,IBC Tamil Canada
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1,Kanchi TV
-http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1,MK Six
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1,Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 #EXTINF:-1,MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1,MK TV
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1,Murasu TV
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 #EXTINF:-1,HARI TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1,VANAVIL
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
 #EXTINF:-1,Vasanth TV
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 
-#EXTINF:-1,Vani Plus
-http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
 
-#EXTINF:-1,Jeyam TV Kovai
-http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 #EXTINF:-1,PC TV
 http://pctv.livebox.co.in/pctvhls/live.m3u8
-#EXTINF:-1,V TV
-http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+
 #EXTINF:-1,Nine Start TV
 http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
 #EXTINF:-1,Thirumalai TV
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-#EXTINF:-1,Nakkubetta Ooty TV
-http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8
 #EXTINF:-1,MM TV
 http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
 #EXTINF:-1,N TV Theni
 http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
-#EXTINF:-1,EZHIL TV
-http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+
 #EXTINF:-1,KAVIN TV
 http://198.144.149.82:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1,JM TV
@@ -473,58 +288,30 @@ http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 #EXTINF:-1,Phoenix TV
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
 
-#EXTINF:-1,MSN TV
-http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1,Bluemoon TV
 http://bmlive.net:8000/bms/bmtv/bms.m3u8
 #EXTINF:-1,Metro TV
 http://softstreamtv.com:8080/NOTV/METROTV/index.m3u8?token=GTR
 #EXTINF:-1,Orange TV
 http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
-#EXTINF:-1,Sai TV Madurai
-http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
-#EXTINF:-1,Tamilan TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
 #EXTINF:-1,Sharvesh 7Star TV
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 
-#EXTINF:-1,Polimer Channel
-http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 #EXTINF:-1,Ashoka TV
 http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
-#EXTINF:-1,CTN(Connor)
-http://bmlive.net:8000/ctn/ctn/bms.m3u8
-#EXTINF:-1,Prakalya TV
-http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
-#EXTINF:-1,Sri Krishna TV(T.kode)
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+
 #EXTINF:-1,AASAI TV
 http://osaitv.livebox.co.in/osaihls/live.m3u8
-#EXTINF:-1,Jawahar TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
 #EXTINF:-1,N TV
 http://7starcloud.com:1935/ntv/live/playlist.m3u8
 #EXTINF:-1,Neem TV
 http://bmlive.net:8000/NEEMTv/neemlivetv/bms.m3u8
 #EXTINF:-1,Ram Tv
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1,Samugam TV
-https://ca.streamjo.com/live/samugam.m3u8
-#EXTINF:-1,Sirippoli TV
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:-1,Sooriyan TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1,SRI KRISHNA TV
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
 #EXTINF:-1,Tirumalai TV KARUR
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-#EXTINF:-1,Udhayam TV
-http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
-#EXTINF:-1,Vani TV
-http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-#EXTINF:-1,Valipokan
-https://strw1.openstream.co/552
-
-#EXTINF:-1,IBC tamil
-https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3
-
