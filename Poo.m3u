@@ -6,10 +6,7 @@ http://singamcloud.in:80/rasinetworks/rasimusic/playlist.m3u8
 http://bmlive.net:8000/kuttytv/yathmovies/bms.m3u8
 #EXTINF:-1,7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1,3Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1,Sharvesh 7Star TV
-http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+
 #EXTINF:-1,CTN
 http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
 #EXTINF:-1,Polimer Channel
@@ -23,8 +20,6 @@ http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
 #EXTINF:-1,Vani TV
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1,Ashoka Channel
-http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
-#EXTINF:-1,Ashoka Channel 2
 http://hdserver.7starcloud.com:1935/ashoka/channel2/playlist.m3u8
 #EXTINF:-1,Shalini TV
 https://gvjygr2jloem-hls-live.5centscdn.com/shalini/live.stream/chunks.m3u8
@@ -132,14 +127,10 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1,Kalaignar Murasu
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1,Aasirvadham TV
-http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
-#EXTINF:-1,Madha TV
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
 #EXTINF:-1,ISAIARUVI
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1,Velicham TV
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
 #EXTINF:-1,Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1,Erode Krishna
@@ -194,8 +185,7 @@ https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 #EXTINF:-1,TCV
 https://stream.ufworldind.in/tcv/tcv/playlist.m3u8
-#EXTINF:-1,Chithiram TV
-http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
+
 #EXTINF:-1,MY TV
 http://bmlive.net:8000/mytvkl/mytvkl/bms.m3u8
 #EXTINF:-1,News 18 Malayalam
@@ -206,30 +196,6 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1,MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1,Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1,Kairali
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1,Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1,Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1,DD Malayalam
-http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
-#EXTINF:-1,Nvision
-http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
-#EXTINF:-1,Jeevan tv
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1,Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1,Asianet NEWS
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1,Swasthik TV
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-#EXTINF:-1,Sivan tv
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1,Life TV Plus
-http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
 #EXTINF:-1,Polimer Tv
 http://103.199.160.85:80/Content/polimer/Live/Channel(Polimer)/Stream(01)/index.m3u8
 #EXTINF:-1,Vanavil tv
@@ -244,8 +210,7 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
 #EXTINF:-1,Aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1,Aus Tamil tv
-http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR
+
 #EXTINF:-1,Mk six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1,Family tv
@@ -254,16 +219,14 @@ https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1,KMD TV
 http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-#EXTINF:-1,Analai movie
-http://198.144.149.82:8080/ANALAI_MOVIE/index.m3u8?token=GTR
+
 #EXTINF:-1,Mk tv
 http://103.199.160.85:80/Content/mktv/Live/Channel(MKTV)/Stream(01)/index.m3u8
 #EXTINF:-1,Shivan tv
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,Life tv
 http://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
-#EXTINF:-1,Kalvi tv
-http://198.144.149.82:8080/KALVI_GR10/index.m3u8?token=GTR
+
 #EXTINF:-1,KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1,Mon Tamil tv
@@ -344,8 +307,6 @@ http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1,ANANDHA TV
 http://198.144.149.82:8080/NOTV/ANANDHATV/index.m3u8?token=GTR
-#EXTINF:-1,Amma tv
-http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/ammatv-123-vdr-VW0gciLY5hWMu-stream/index.m3u8
 #EXTINF:-1,Kanchi tv
 http://198.144.149.82:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1,KANCHI MEDIA
@@ -374,20 +335,10 @@ http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/GAYATHRITV/index.m3u8?token=GTR
 #EXTINF:-1,Mullai HD
 http://bmlive.net:8000/Raja/rajacbe/bms.m3u8
-#EXTINF:-1,Ladhee TV
-http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
-#EXTINF:-1,Blessings TV
-http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w794457741.m3u8
-#EXTINF:-1,DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1,Samyuktha HD
 http://bmlive.net:8000/samyukthahd/samyukthahd/bms.m3u8
-#EXTINF:-1,Krubai TV
-http://bmlive.net:8000/kirubaitv/kirubaitv/bms.m3u8
-#EXTINF:-1,KL My TV
-http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
 #EXTINF:-1,Suriyan TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1,Udhyam TV Nagarcoil
@@ -408,18 +359,10 @@ http://jaeppiyar.livebox.co.in/jeevaolitvhls/live.m3u8
 http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8
 #EXTINF:-1,IBC Music
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1,Chithiram TV
-http://103.199.161.254/Content/kalaignarchittiram/Live/Channel(KalaignarChittiram)/Stream(01)/index.m3u8
-#EXTINF:-1,Sri Sankara TV
-https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 #EXTINF:-1,Tamil Vision International
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 #EXTINF:-1,JCV HD
 http://bmlive.net:8000/jcvtv/jcvtv/bms.m3u8
-#EXTINF:-1,Puthuyugam
-http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1,Java Movie
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
 #EXTINF:-1,ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1,SVBC Tamil
@@ -454,8 +397,7 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 #EXTINF:-1,Life Tv Plus
 http://lifetv.livebox.co.in/lifetvtamilhls/live.m3u8
-#EXTINF:-1,Aathavan TV
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
 #EXTINF:-1,NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,Vasanth TV
@@ -496,30 +438,16 @@ http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1,Murasu TV
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1,Aasirvadham TV
-http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
-#EXTINF:-1,Moon TV
-http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
-#EXTINF:-1,Angel TV
-https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/playlist.m3u8
 #EXTINF:-1,HARI TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 #EXTINF:-1,VANAVIL
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
-#EXTINF:-1,Madha TV
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #EXTINF:-1,Vasanth TV
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
-#EXTINF:-1,Nambikkai TV
-http://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-#EXTINF:-1,Velicham
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1,Swasthik TV
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
 #EXTINF:-1,Vani Plus
 http://live.singamcloud.in:1935/vanipluse/vanipluse/playlist.m3u8
-#EXTINF:-1,Anu TV
-http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+
 #EXTINF:-1,Jeyam TV Kovai
 http://198.144.149.82:8080/NOTV/JEYAMTVCOVAI/index.m3u8?token=GTR
 #EXTINF:-1,PC TV
@@ -544,8 +472,7 @@ http://198.144.149.82:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
 #EXTINF:-1,Phoenix TV
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
-#EXTINF:-1,Annai TV
-http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR
+
 #EXTINF:-1,MSN TV
 http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
 #EXTINF:-1,Bluemoon TV
@@ -560,8 +487,7 @@ http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,Sharvesh 7Star TV
 http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
-#EXTINF:-1,CTN TV
-http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+
 #EXTINF:-1,Polimer Channel
 http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
 #EXTINF:-1,Ashoka TV
@@ -598,214 +524,7 @@ http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 #EXTINF:-1,Valipokan
 https://strw1.openstream.co/552
-#EXTINF:-1,Varnam FM
-http://s3.voscast.com:8402/;stream.mp3
-#EXTINF:-1,Radio Vaanam
-http://188.165.237.19:8717/stream
-#EXTINF:-1,Palaiya Paadal Radio
-https://psrlive3.listenon.in/old?station=palaiyapaadalradio
-#EXTINF:-1,KODAIRAGAM FM
-http://161.97.135.229:8300/stream
-#EXTINF:-1,Anandham FM HQ
-http://stream.zeno.fm/1ddxnnrg0d0uv
-#EXTINF:-1,A9 Radio
-https://a9radio1-a9media.radioca.st/stream
-#EXTINF:-1,A9 Radio
-https://a9newhits-a9media.radioca.st/stream
-#EXTINF:-1,A9 Radio Old Hits
-https://a9oldhits-a9media.radioca.st/stream
-#EXTINF:-1,Abc tamil
-https://eu8.fastcast4u.com/proxy/ailevdcu?mp=/;
-#EXTINF:-1,Akaram online
-https://node-13.zeno.fm/wmga0v626qzuv?rj-ttl=5&rj-tok=AAABd5EhqN4Au0DgBiEJGFXB6A
-#EXTINF:-1,Amercian tamil radio
-https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream
-#EXTINF:-1,Anboli FM
-https://node-34.zeno.fm/nr0vff5w8qzuv?rj-ttl=5&rj-tok=AAABd5FLwCYA0QoSPu_FY3ZezA
-#EXTINF:-1,Athiradi tamil
-https://streamer.radio.co/s688f110d0/listen
-#EXTINF:-1,Ayyapuram FM
-https://s24.myradiostream.com/:14808/;
-#EXTINF:-1,Batti FM
-https://node-17.zeno.fm/ky74k07zetzuv?rj-ttl=5&rj-tok=AAABd5FA8XIA2gyntY9MN2akkQ
-#EXTINF:-1,British Indian Tamil
-https://node-11.zeno.fm/w8wp06pqbrzuv?rj-ttl=5&rj-tok=AAABd5EjQbAA-Us-3xJxvYOxqQ
-#EXTINF:-1,Capital FM
-https://node-32.zeno.fm/vwhvpryd3qzuv?rj-ttl=5&rj-tok=AAABd5EcTyMAjJCZpMJLwmOwDg
-#EXTINF:-1,Club house FM
-https://node-09.zeno.fm/0atpg26zetzuv?rj-ttl=5&rj-tok=AAABd5EysIsApTIfu-b-Lby0Xg
-#EXTINF:-1,Dream share
-https://node-26.zeno.fm/5k3r78yurreuv.aac?rj-ttl=5&rj-tok=AAABd5FK5iwA-iI_xXg6KFC1eA
-#EXTINF:-1,Eagle FM
-https://streaming.radio.co/sf833cd785/listen
-#EXTINF:-1,East FM
-https://node-25.zeno.fm/bshhtz6hanruv.aac?rj-ttl=5&rj-tok=AAABd5EO6gkA4lEeN0XLUGfh3Q
-#EXTINF:-1,Europe Tamil
-https://tamilmusiq.radioca.st/stream
-#EXTINF:-1,Friends tamil chat
-https://usa3.fastcast4u.com/proxy/dhayanib?mp=/;
-#EXTINF:-1,Friends Tamil FM
-https://usa15.fastcast4u.com/proxy/tammus00?mp=/;
-#EXTINF:-1,GTC FM
-https://usa13.fastcast4u.com/proxy/gtcfm?mp=/1
-#EXTINF:-1,Hello FM 106.4 Chennai
-https://node-17.zeno.fm/4g65yz9gg0quv.aac?rj-ttl=5&rj-tok=AAABd5EHHRwAMcO562uPHo1S2w
-#EXTINF:-1,Hungama tamil classics
-https://node-23.zeno.fm/qmtwp07a4qzuv?rj-ttl=5&rj-tok=AAABd5EhXMEAek8V-u7DwoMjVg
-#EXTINF:-1,I Tamil media
-https://streams.radio.co/s937ac5492/listen
+
 #EXTINF:-1,IBC tamil
 https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3
-#EXTINF:-1,Ilangai Vaanoli
-https://ilangaivaanoli1.out.airtime.pro/ilangaivaanoli1_a
-#EXTINF:-1,ILC radio
-https://node-11.zeno.fm/cq5cq5336qzuv?rj-ttl=5&rj-tok=AAABd5EvmyEAFzSWdnu0DOUfRg
-#EXTINF:-1,Inba thamil oli
-https://usa7.fastcast4u.com/proxy/ozmediae?mp=/1
-#EXTINF:-1,Isaiyaruvi FM
-https://cors.bitwize.com.lb/http://108.61.154.147:8910/;
-#EXTINF:-1,ITR FM
-https://radio5.pro-fhi.net/flux-hgtidrcv/stream
-#EXTINF:-1,ITR FM radio
-https://radio5.pro-fhi.net/flux-hgtidrcv/stream
-#EXTINF:-1,Iyalisairadio
-https://iyalisai.radioca.st/stream
-#EXTINF:-1,Jei FM radio
-https://usa3.fastcast4u.com/proxy/jeifm?mp=/;
-#EXTINF:-1,Kathir FM
-https://node-19.zeno.fm/nwga0bxxnrquv?rj-ttl=5&rj-tok=AAABd5Ei70QA_fypEvLzISMLzg
-#EXTINF:-1,Kummalam
-https://kummalam.stream.laut.fm/kummalam
-#EXTINF:-1,Lankasri FM
-https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3
-#EXTINF:-1,Life FM
-https://node-16.zeno.fm/k0qrmtts91zuv?rj-ttl=5&rj-tok=AAABd5EmHMYAKgd2Yah7LRVRfA
-#EXTINF:-1,Madura Malli FM
-https://node-10.zeno.fm/yv9w5pe36qzuv?rj-ttl=5&rj-tok=AAABd5EmW0IA2JHKqApKQQouYg
-#EXTINF:-1,Magizhchi FM
-https://usa15.fastcast4u.com/proxy/magizhchifm?mp=/1
-#EXTINF:-1,Malaiyagam FM
-https://malayagamfm.radioca.st/stream
-#EXTINF:-1,Montreal tamil radio
-https://node-15.zeno.fm/ybawsbrqbrzuv?rj-ttl=5&rj-tok=AAABd5FPn_AAb7B8MW7jucH9Hw
-#EXTINF:-1,MTR 995 FM
-https://node-29.zeno.fm/ndtrnqqrn7zuv?rj-ttl=5&rj-tok=AAABd5FAousAqSOTrNuXKz0TRQ
-#EXTINF:-1,Muslim Vaanoli
-https://cors.bitwize.com.lb/http://s2.voscast.com:9356/stream
-#EXTINF:-1,Muthamil Radio 88.9
-https://ice66.securenetsystems.net/MUTHAMIL
-#EXTINF:-1,Namathu FM
-https://s3.voscast.com:10527/stream?type=.mp3
-#EXTINF:-1,Natrinai FM
-https://centova32.instainternet.com/proxy/sasi?mp=/1
-#EXTINF:-1,Nesaganam online
-https://usa9.fastcast4u.com/proxy/nesaganam?mp=/1
-#EXTINF:-1,NJ Sunrise
-https://njsunrise.out.airtime.pro/njsunrise_a
-#EXTINF:-1,Num Tamil radio
-https://usa15.fastcast4u.com/proxy/tammus00?mp=/;
-#EXTINF:-1,Oli FM radio
-https://22393.live.streamtheworld.com/OLI968FMAAC.aac
-#EXTINF:-1,Osai FM
-https://astro4.rastream.com/osai
-#EXTINF:-1,Owl FM Radio
-https://node-09.zeno.fm/q6h0dmrrn7zuv?rj-ttl=5&rj-tok=AAABd5FNG-IAKx71xSrHWsRogQ
-#EXTINF:-1,Ozion FM
-https://s2.radio.co/sd4968cb05/listen
-#EXTINF:-1,Paaddu FM
-https://node-28.zeno.fm/z4chuxksn7zuv?rj-ttl=5&rj-tok=AAABd5FO3jQAkLWMEegrPGcX7g
-#EXTINF:-1,Pasam FM
-https://node-08.zeno.fm/nkb65rhqbrzuv?rj-ttl=5&rj-tok=AAABd5FBSRYAlIsRD3m6s40VGQ
-#EXTINF:-1,Pollachi FM
-https://node-08.zeno.fm/f29eh57d3qzuv?rj-ttl=5&rj-tok=AAABd5EuC4wAp1c8goDpJSGQUg
-#EXTINF:-1,Radio city chennai
-https://prclive4.listenon.in/Tamil
-#EXTINF:-1,Radio city Tamil
-https://prclive4.listenon.in/Tamil
-#EXTINF:-1,Radio gethu
-https://radiogethu2k18.radioca.st/stream
-#EXTINF:-1,Radio Gilli 106.5
-https://livessl.rcast.net/stream/66462.mp3
-#EXTINF:-1,Radio Madurai
-https://node-27.zeno.fm/enc3rem26qzuv?rj-ttl=5&rj-tok=AAABd5EuV90AjrlMp73wuqWytA
-#EXTINF:-1,Radio Paramankurichi
-https://vpmurugun.radioca.st/stream
-#EXTINF:-1,Radio vaanam
-https://sathees.radioca.st/;
-#EXTINF:-1,SA Tamil FM
-https://node-25.zeno.fm/n9nbsu546qzuv?rj-ttl=5&rj-tok=AAABd5EmmjUARlEj0SMpNuJLMA
-#EXTINF:-1,Sahara FM
-https://saharafm.radioca.st/stream
-#EXTINF:-1,Sai FM
-https://node-06.zeno.fm/cyz8ay2vm7zuv?rj-ttl=5&rj-tok=AAABd5FMGiUAwnVHLybS-zewnw
-#EXTINF:-1,Sangamum Radio
-https://eu2.fastcast4u.com/proxy/sangamum?mp=/1
-#EXTINF:-1,Shakthi FM
-https://node-18.zeno.fm/qzx5zxn0bg0uv?rj-ttl=5&rj-tok=AAABd5Yej-4AjjvKrisNphi_5w
-#EXTINF:-1,Shyam FM Radio
-https://node-24.zeno.fm/7dqtawdfmzzuv.aac?rj-ttl=5&rj-tok=AAABd5EswyAAlwWCSugmdZkoxg
-#EXTINF:-1,Sirpi FM
-https://saharafm.radioca.st/stream
-#EXTINF:-1,Siruthai FM
-https://eu3.fastcast4u.com/proxy/skajanee?mp=/;
-#EXTINF:-1,SLBC Tamil national service
-https://node-04.zeno.fm/xekhrn4zetzuv?rj-ttl=5&rj-tok=AAABd5E6kakA0V47spRgHtjZRg
-#EXTINF:-1,Sooriyan FM
-https://cors.bitwize.com.lb/http://209.133.216.3:7071/;
-#EXTINF:-1,Soup FM
-https://usa7.fastcast4u.com/proxy/soupfm?mp=/;
-#EXTINF:-1,SS Tamil Radio
-https://sstamilradio.radioca.st/stream/;
-#EXTINF:-1,Star Radio
-https://node-14.zeno.fm/93mht4e36qzuv?rj-ttl=5&rj-tok=AAABd5E1zf0A1COYGfueluik_w
-#EXTINF:-1,Star Tamil Radio
-https://node-35.zeno.fm/a0p77fqym7zuv?rj-ttl=5&rj-tok=AAABd5EOJYgAiRZtvfZ_si7kfw
-#EXTINF:-1,Tamil 89.4 FM
-https://node-07.zeno.fm/gp5k6qs1bg0uv?rj-ttl=5&rj-tok=AAABd5ENov4ACfFIms1QG69xLA
-#EXTINF:-1,Tamil Akaram
-https://tamilakaram.radioca.st/stream
-#EXTINF:-1,Tamil christian Radio
-https://ssl.aloncast.com:1466/stream
-#EXTINF:-1,Tamil Comedy Radio
-https://node-20.zeno.fm/w006vfqa4qzuv?rj-ttl=5&rj-tok=AAABd5Em_LwA7_l3wnRfLHHfAw
-#EXTINF:-1,Tamil kural Radio
-https://node-09.zeno.fm/1rhs8mzf3qzuv?rj-ttl=5&rj-tok=AAABd5EnXaIAOrBEpr0YyY5bKg
-#EXTINF:-1,Tamil kuyil tamil
-https://node-23.zeno.fm/yp73agy93qzuv?rj-ttl=5&rj-tok=AAABd5FYwqoA4m87jUejZNYAqA
-#EXTINF:-1,Tamil murasam
-https://tamilmurasam.radioca.st/stream
-#EXTINF:-1,Tamil Osai FM
-https://usa15.fastcast4u.com/proxy/tamilosaifm?mp=/;
-#EXTINF:-1,Tamil Romantic Radio
-https://node-34.zeno.fm/bvz3qwqa4qzuv?rj-ttl=5&rj-tok=AAABd5Ej5NkAZDauvHxlAJkFUw
-#EXTINF:-1,Tamilaruvi FM
-https://node-15.zeno.fm/sb0zvu436qzuv?rj-ttl=5&rj-tok=AAABd5EvUdUAudR13W95IBdB5w
-#EXTINF:-1,Thamil esai
-https://node-07.zeno.fm/88cuqz816qzuv?rj-ttl=5&rj-tok=AAABd5FJXzYA9E9SI_KYnWJNnw
-#EXTINF:-1,Thayagam radio
-https://s3.yesstreaming.net:17045/stream
-#EXTINF:-1,Theen Tamil Osai
-https://eu2.fastcast4u.com/proxy/theentamil?mp=/1
-#EXTINF:-1,Thenaruvi FM
-https://eu8.fastcast4u.com/proxy/thenaruvifm?mp=/1
-#EXTINF:-1,TSR live
-https://node-18.zeno.fm/qt4tvqqqbrzuv?rj-ttl=5&rj-tok=AAABd5FIukIANqA43GZFrtiytw
-#EXTINF:-1,Tube Tamil FM
-https://node-17.zeno.fm/p5k41f436qzuv?rj-ttl=5&rj-tok=AAABd5FXEbAA7RGpZ3pH7e0mVg
-#EXTINF:-1,Ullasam FM
-https://usa1.fastcast4u.com/proxy/ullasamfm?mp=/;
-#EXTINF:-1,US Tamil FM
-https://streaming.radio.co/s0cfc93915/listen
-#EXTINF:-1,Vaanam FM
-https://cors.bitwize.com.lb/http://europa.shoutca.st:8106/stream
-#EXTINF:-1,Vaanosai FM
-https://node-27.zeno.fm/7aswfbpx25quv?rj-ttl=5&rj-tok=AAABd5E1hBMAHPoHX9bURYCvKg
-#EXTINF:-1,Vasantham FM
-https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream
-#EXTINF:-1,YET WEB
-https://node-28.zeno.fm/vmm16gt0etzuv?rj-ttl=5&rj-tok=AAABd5FXog8AoVgXSGZuLkZoTA
-#EXTINF:-1,Yugam Radio
-https://s6.yesstreaming.net:19012/stream;
-#EXTINF:-1,Yuwave radio
-https://yuwaveradio.radioca.st/stream
-Credits Goto = https://t.me/livetvtamil
+
