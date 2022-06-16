@@ -365,3 +365,153 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1,Tirumalai TV KARUR
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+********************************************************************************************
+********************************************************************************************
+
+#
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Jio", Sony Pix HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="Jio", HBO HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=HBO_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="Jio", WB
+http://yashrajmod035.in1.bitmana.io//live.php?c=WB&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Jio", Ten 1 HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Jio", Ten 2 HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Jio", Ten 3 HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Jio", Sony Six HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Six_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Jio", Sony Six SD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Sony_Six_SD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Jio", CN HD+ Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=CN_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Jio", Cartoon Network Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Cartoon_Network_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Jio", Pogo Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Pogo_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Jio", Nick Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Nick_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Jio", sonic Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=sonic_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Jio", Sony Yay Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Sony_Yay_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Jio", Discovery Kids Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Discovery_Kids_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Jio", Discovery HD World
+http://yashrajmod035.in1.bitmana.io//live.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Jio", Discovery
+http://yashrajmod035.in1.bitmana.io//live.php?c=Discovery&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Jio", D Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Discovery_Channel_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Jio", Animal Planet HD World
+http://yashrajmod035.in1.bitmana.io//live.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Jio", Animal Planet English
+http://yashrajmod035.in1.bitmana.io//live.php?c=Animal_Planet_English&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Jio", Discovery Science
+http://yashrajmod035.in1.bitmana.io//live.php?c=Discovery_Science&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Jio", Animal Planet HD Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Jio", MTV HD Plus
+http://yashrajmod035.in1.bitmana.io//live.php?c=MTV_HD_Plus&q=1200&e=junk.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Jio", MTV Beats HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Jio", B4U Music
+http://yashrajmod035.in1.bitmana.io//live.php?c=B4U_Music&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV" group-title="Jio Tamil", Sun music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Jio Tamil", Jaya TV HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Jaya_TV_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Jio Tamil", MK TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=MK_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Jio Tamil", MK Music
+http://yashrajmod035.in1.bitmana.io//live.php?c=MK_Music&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Jio Tamil", Zee Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Zee_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Jio Tamil", Kalaignar TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Kalaignar_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Jio Tamil", Raj TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Raj_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Jio Tamil", Vasanth TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Vasanth_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Jio Tamil", Jaya Max
+http://yashrajmod035.in1.bitmana.io//live.php?c=Jaya_Max&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Jio Tamil", Polimer TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Polimer_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Jio Tamil", J Movies
+http://yashrajmod035.in1.bitmana.io//live.php?c=J_Movies&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Jio Tamil", Raj Digital Plus
+http://yashrajmod035.in1.bitmana.io//live.php?c=Raj_Digital_Plus&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Jio Tamil", Raj Musix
+http://yashrajmod035.in1.bitmana.io//live.php?c=Raj_Musix&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Jio Tamil", Colors Tamil HD
+http://yashrajmod035.in1.bitmana.io//live.php?c=Colors_Tamil_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Jio Tamil", Sathiyam TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Sathiyam&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Jio Tamil", Captain tv
+http://yashrajmod035.in1.bitmana.io//live.php?c=Captain_tv&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Jio Tamil", Travel XP Tamil
+http://yashrajmod035.in1.bitmana.io//live.php?c=Travel_XP_Tamil&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Jio Tamil", Vendhar TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Vendhar_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Jio Tamil", DD5 Podhigai
+http://yashrajmod035.in1.bitmana.io//live.php?c=DD5_Podhigai&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Jio Tamil", Madhimugam TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Madhimugam_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Jio Tamil", Win TV
+http://yashrajmod035.in1.bitmana.io//live.php?c=Win_TV&q=1200&e=junk.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="" group-title="Tamil News", NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377818/ei/OruqYvuMLNSJkwbFp6CwBA/ip/20.237.157.33/id/L9cpaOElyo0.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1g8FQNeu_E-_r89PGYModQAOn8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGbCBzDf2MKKCc7jC56T3i0v2SXdni6H9lBIMLNkT3x4CIQDT3ocm2efz1ycsr6Oq2huAPVu8xmHkQogxrZ29eYUTSQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="" group-title="Tamil News", Polimer News (பாலிமர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377819/ei/O7uqYpWnDIKPkwa01orQDA/ip/20.237.157.33/id/QZgReH7h_hQ.6/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0bHPJq1Pq-IoUP67bRZYPCVcP8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdWEiGll5pVSAMu6hfd5AFvFt9I1SN2sIZh4aJHgNXXYCIQD6zB1gQuWSPe62e_zWU9nVOkUW9SwUYzhym4ht9u83fQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="" group-title="Tamil News", Puthiya Thalaimurai (புதிய தலைமுறை)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377819/ei/O7uqYvfEJISnkgamobrYDg/ip/20.237.157.33/id/NX18e_Wh7NA.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4KWDQq9JhITmTspgZIR4rXAWrM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOYL5KBgQk1HmYaJpdRtSpoKQoWkgOql4Gd283JHa3PlAiEA3ugFIftcOPtMZIYVGs3qWkbYqg_Tu2UE2YYqxMP_o50%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="" group-title="Tamil News", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377820/ei/O7uqYt7PO8iWkwaz-aOQAg/ip/20.237.157.33/id/pHgRYoD0d2Q.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_fm5hr2MkR-rB7_8fHvJ-42CKc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfrqghwgMtoqZyKizMGBBvcTftOaszWzC6IS0Jukem5UCIQDkLF_LzyTF52Qxm3o-dgCzXxJH4MVBVhEwBZ84f1qWUw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="" group-title="Tamil News", Thanthi TV (தந்தி டிவி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377820/ei/PLuqYremEoSBkwbC0I_ADA/ip/20.237.157.33/id/FeweQREkl44.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC16d_MVvwJtTFoaFSG4xQZeKCoo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMjg1Teq0216_qR7zjAI9YI21fhTo_UIe2QjhLWcIyaDAiBJtgKhXSZniuy5P4MkKePL3yCkWUwOTc2l51fT6OXevw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="" group-title="Tamil News", Zee Tamil News (ஜீ தமிழ் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377820/ei/PLuqYu_uKNOCkgbUrYf4DQ/ip/20.237.157.33/id/TecKrp9M1Hk.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCweK4EK2aJ81cJ-QyMqg-FhdArA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPiF6rSTS-24nI5IreMpEBpkjV4S3vy-EQzaPzigyKrjAiEAoLrQvtM2MKm4udI-OYtelRQnYk8JZdkaUPfxu2Rby5A%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="" group-title="Tamil News", Dinamalar (தினமலர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377821/ei/PbuqYtC-A7iDsfIP9KiIgA0/ip/20.237.157.33/id/XtzsyyTBuoY.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCwgNXq8iCcsEtlgC6oMMGQzwJ1E/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZxcgxd3t-Bm9dbPW8eLIkHBSm_S4u3u4I2oulU-tMswCIQDKmcDMHEdgM_Y95OTMb_PetbsrErwqg3edjQ6tW9Rnaw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="" group-title="Tamil News", Sun News (சன் நியூஸ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377821/ei/PbuqYtyNHJaZkwb1yazoCA/ip/20.237.157.33/id/kzwbYu1diCY.9/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7f8k_joEZLeiTLqJyRHxGxUXwc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbAIOSbfcxQvAly6Wu8HHRio7vLUtzoZazMjlteclJZgCIG938wcKfh0pvZwUL6cHwrR3Ax1A-2CNXtQI9MBZLb40/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="" group-title="Tamil News", News18 TamilNadu (நியூஸ்18 தமிழ்நாடு தொலைக்காட்சி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377822/ei/PbuqYtCJOJmLkwaZ3pfABQ/ip/20.237.157.33/id/mQrZJFyYzlI.3/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC96aZbmV59QfrS5Ue3UWBBAmA8k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcyiwDU5Xup0HIlVfTZIZOxqM16LVEw2TqbSX8qxLEGoCIQDoSM0jrM7vAkcCKxZb1TX8oCzyaGNuDJZh-5oqhr9cVw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="" group-title="Tamil News", Raj News (ராஜ் நியூஸ் தமிழ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377822/ei/PruqYrXMGYLPkgbp8Ir4CA/ip/20.237.157.33/id/s4bq-9FINqA.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCz9be4NMoD-3VJZxYToAKbhk6dE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGP3kq4dggZDanpSJIHiG6Vdl7uCqDxIjc6iwLsmsv5ICIQDseQrSTDlY-ZPtgVJWJ85M9zY_As76MaFEB6cK7IzZ5Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="" group-title="Tamil News", NewsJ (நியூஸ் ஜெ)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377822/ei/PruqYtTVMI-Tkgbbv76IDA/ip/20.237.157.33/id/00nfEtSSUc0.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2X8i14POPajwUp57_33rWiFruQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP7xVLt7uWZ9YXdRxW0FrIf60lTakTn3ivg0b0NSiw-nAiBHml52VKgF1UOCoKvNIDVT_a0CmP_KVldPECwXS30joQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="" group-title="Tamil News", Sathiyam TV (சத்தியம் டிவி)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377823/ei/P7uqYsHQCtCGkgaW9ZOADg/ip/20.237.157.33/id/K8yHVn1EGnA.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6jGSIYqELrKvIOAGuhr4BpVDG0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALCVJN_UDNac6COLkJKzSv3tKmoFIS3GkeeeqK7AqGlDAiBUNacUff492cWMc8fi8M1YR6ZeBmzw91cSM6YDM0PfZQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="" group-title="Tamil News", Jaya Plus (ஜெயா பிளஸ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377823/ei/P7uqYujoH5nOkgadnKjwBA/ip/20.237.157.33/id/iN85rffIkms.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8glBOw-r-NlHGoqlHu8vFfVpNw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQmLINs-2P3Jew7Rs8yuerHu5fyXYn4x3HC_gM_x4cIACIA2iaTOGk6CcYE-pGbSZMQ576qe2tIRH3qw89a-G2o01/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="" group-title="Tamil News", Kalaignar News (கலைஞர் செய்திகள்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377824/ei/P7uqYoXSNc_8kgbBvbz4Dg/ip/20.237.157.33/id/PyeSc-rMBlI.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzfzhct-MdeC_MviDWrKWNj4KKw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPff7EO_6kYv8Kc-XGVBT3fZrVGVTN8NmRRnNaDLPRHFAiEAxPVvQgd3P1RaQmlTDvFa6fUuoCHEou_x5kpJX3ap0t0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="" group-title="Tamil News", Captain News (கேப்டன் நியூஸ்)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377824/ei/QLuqYrXWFouIkgaYpK6YAQ/ip/20.237.157.33/id/xlvShPu24Ro.1/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzjjsXkgDfoWR2M3VX1JZFy4bX8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTiAJU2j0fZW7w3dixFoyF4dn6VebA6jv_lh67IHmeSoCIDFcqH3hfCsTh6IuQHOKkPy_gmh4ZtIQumvNn2EHhj6Z/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="" group-title="Tamil News", Chanakyaa (சாணக்யா)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655377824/ei/QLuqYvuJLcSIkwbpy5LwDQ/ip/20.237.157.33/id/0C9sapf-7Og.3/source/yt_live_broadcast/requiressl/yes/tx/24153813/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3WYJHg5kc-1elwSdRkwVFAyMtg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMJo01xIou0mHg7ZsBMs6oNQf8Xvg8hDusHgou6J7T-0AiEAsv9HmfXGprdx_pAwFIer9oJr31TxfHWpm6tVtt4TOZc%3D/file/index.m3u8
+
+
