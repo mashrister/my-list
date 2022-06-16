@@ -1,2 +1,22 @@
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV", Sun music
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD source3
+http://ahaohoo.com/.1/tv1/play.php?id=2336&e=.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="Tamil",Sun TV HD source3
+http://indo51.gcdn.co/TAMIL-SuntvHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay SD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay SD
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1 tvg-id="starvijay.in" tvg-name="Star Vijay SD" tvg-logo="https://watchindia.net/images/channels/tamil/Star_Vijay_HD.png" group-title="Tamil",Star Vijay SD
+http://indo51.gcdn.co/TAMIL-STARVIJAYindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
+http://ahaohoo.com/.1/tv1/play.php?id=2335&e=.m3u8
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
+http://indo51.gcdn.co/TAMIL-KtvHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w303707639.m3u8
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://indo51.gcdn.co/TAMIL-SunmusicHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
+http://indo51.gcdn.co/TAMIL-JAYATVHD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title=" Zee5",Zee Tamil
+http://ahaohoo.com/.1/tv1/play.php?id=2323&e=.m3u8
