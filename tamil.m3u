@@ -1,6 +1,2 @@
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
-https://load.airtel.tv/suntv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF: -1 tvg-name="Sun TV" group-title="HINDI ENT.", Sun TV
-http://iptv-line.com:7899/jamie.vanerkelens1/wdQMda2H/3260
-#EXTINF: -1 tvg-name="Sun Music" group-title="MUSIC", Sun Music
-http://iptv-line.com:7899/cuscun-798356/KcjfXGlYqQ/54138
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
